@@ -17,6 +17,8 @@ public class ClassB {
     public void mb2(){
         System.out.println("Metodo MB2");
     }
+
+    
 }
 
 

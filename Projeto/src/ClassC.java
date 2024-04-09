@@ -1,4 +1,4 @@
-public class ClassA {
+ public class ClassC {
     private int a1;
     private float a2;
 
@@ -23,3 +23,4 @@ public class ClassA {
        
     }
 }
+
