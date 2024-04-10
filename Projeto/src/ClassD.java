@@ -19,7 +19,12 @@ public class ClassD {
     }
 
     public void md3(){
-        System.out.println("Alteração a classe A partir do clone");
+        System.out.println("Metodo md4");
+       
+    }
+
+    public void md4(){
+        System.out.println("Metodo md4");
        
     }
 }
