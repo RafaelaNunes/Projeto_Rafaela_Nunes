@@ -18,7 +18,11 @@ public class ClassB {
         System.out.println("Metodo MB2");
     }
 
-    
+    public void mb3(){
+        System.out.println("Metodo MB3");
+    }
+
+
 }
 
 
